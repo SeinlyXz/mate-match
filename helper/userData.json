@@ -1,0 +1,67 @@
+[
+    {
+        "phone": "1234567890",
+        "name": "Stephen",
+        "photo": "https://cdn2.momjunction.com/wp-content/uploads/2021/02/What-Is-A-Sigma-Male-And-Their-Common-Personality-Trait-624x702.jpg",
+        "hobby": "coding",
+        "gender": "Male",
+        "age": 25,
+        "about": [
+            "I am a software developer",
+            "I love to code",
+            "I love to play video games"
+        ]
+    },
+    {
+        "phone": "2234567890",
+        "name": "Dawam",
+        "photo": "https://i.pinimg.com/736x/dd/b2/02/ddb20201727b7b4e5178431058a20869.jpg",
+        "hobby": "coding",
+        "gender": "Male",
+        "age": 25,
+        "about": [
+            "I am a software developer",
+            "I love to code",
+            "I love to play video games"
+        ]
+    },
+    {
+        "phone": "3234567890",
+        "name": "Isaac",
+        "photo": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg",
+        "hobby": "coding",
+        "gender": "Male",
+        "age": 25,
+        "about": [
+            "I am a software developer",
+            "I love to code",
+            "I love to play video games"
+        ]
+    },
+    {
+        "phone": "4234567890",
+        "name": "Seinly",
+        "photo": "https://as1.ftcdn.net/v2/jpg/04/63/22/18/1000_F_463221858_50KkvfxxovUaMNlilCmUxrOnTqSpzAlP.jpg",
+        "hobby": "coding",
+        "gender": "Male",
+        "age": 25,
+        "about": [
+            "I am a software developer",
+            "I love to code",
+            "I love to play video games"
+        ]
+    },
+    {
+        "phone": "5234567890",
+        "name": "Nada",
+        "photo": "https://as1.ftcdn.net/v2/jpg/04/63/22/18/1000_F_463221858_50KkvfxxovUaMNlilCmUxrOnTqSpzAlP.jpg",
+        "hobby": "coding",
+        "gender": "Male",
+        "age": 25,
+        "about": [
+            "I am a software developer",
+            "I love to code",
+            "I love to play video games"
+        ]
+    }
+]
